@@ -1,0 +1,11 @@
+/*カテゴリの色変更*/
+a.category- {
+
+  &3DCG,
+  &プログラミング,
+  &デザイン,
+  &日記 {
+    background-color: #002030;
+    color: white;
+  }
+}

@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './style.css'
+import './style.scss'
 import Header from './Header.vue'
 import SideBlock from './Sideblock.vue'
 

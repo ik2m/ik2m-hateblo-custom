@@ -51,23 +51,4 @@
     display: none;
   }
 }
-
-#header-nav 
-/*カテゴリの色変更*/
-a.category-3DCG {
-  background-color: #002030;
-  color: white;
-}
-a.category-プログラミング {
-  background-color: #002030;
-  color: white;
-}
-a.category-デザイン {
-  background-color: #002030;
-  color: white;
-}
-a.category-日記 {
-  background-color: #002030;
-  color: white;
-}
 </style>
