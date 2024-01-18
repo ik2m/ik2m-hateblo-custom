@@ -13,10 +13,10 @@ htmlのコンテンツを呼び出したい場所に
 ```
 を置いて、
 ``` html
-<link rel="stylesheet" href="https://izumiikezaki.github.io/ikz-hateblo-sustom/assets/index.css">
+<link rel="stylesheet" href="https://izumiikezaki.github.io/ikz-hateblo-custom/assets/index.css">
 ```
 と
 ``` html
-<script src="https://izumiikezaki.github.io/ikz-hateblo-sustom/assets/index.js"></script>
+<script src="https://izumiikezaki.github.io/ikz-hateblo-custom/assets/index.js"></script>
 ```
 を書くだけ
