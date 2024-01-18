@@ -11,7 +11,7 @@ htmlのコンテンツを呼び出したい場所に
 ``` html
 <div id="app-sideblock"></div>
 ```
-をカスタムパーツを配置したい場所に置いて、
+を置いて、
 ``` html
 <link rel="stylesheet" href="https://izumiikezaki.github.io/ikz-hateblo-sustom/assets/index.css">
 ```
