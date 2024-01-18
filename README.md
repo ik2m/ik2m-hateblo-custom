@@ -5,7 +5,7 @@
 
 htmlのコンテンツを呼び出したい場所に
 ``` html
-<div id="app-sideblock"></div>
+<div id="app-header"></div>
 ```
 や
 ``` html
