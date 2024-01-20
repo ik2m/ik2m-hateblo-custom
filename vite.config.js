@@ -8,9 +8,10 @@ export default defineConfig({
   build: {
     outDir: './dist/',
     rollupOptions: {
+      input: ['src/app.js'],
       output: {
-        entryFileNames: `assets/[name].js`,
-        assetFileNames: `assets/[name].[ext]`,
+        entryFileNames: 'script.js',
+        assetFileNames: 'style.css',
       },
     },
   },
